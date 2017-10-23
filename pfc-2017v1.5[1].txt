@@ -707,7 +707,7 @@ END_PLAYERS
 Denver Broncos,DEN
 QB,Paxton Lynch,23,2016,89,45,88,90,60,66,2.3,3
 QB,Brock Osweiler,27,2012,66,60,88,97,62,40,0,1
-QB,Trevor Siemian,26,2015,89,67,73,81,64,45,0.4,2
+QB,Trevor Siemian,26,2015,99,99,99,99,64,45,0.4,6
 RB,C.J. Anderson,26,2013,67,73,75,90,83,94,2.8,3
 RB,Jamaal Charles,31,2008,64,71,68,73,85,86,1.6,1
 RB,Devontae Booker,25,2016,64,62,85,67,78,86,0.5,3
